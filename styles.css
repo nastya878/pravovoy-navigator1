@@ -163,7 +163,7 @@ a {
             rgba(5, 17, 38, 0.35),
             rgba(5, 17, 38, 0.55)
         ),
-        url("pictures/hero-city.png") center center / cover no-repeat;
+        url("hero-city.png") center center / cover no-repeat;
 
     border-bottom: 3px solid var(--gold);
 }
